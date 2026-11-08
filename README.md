@@ -24,7 +24,7 @@ PennyWise – Expense Tracker is a collaborative academic project developed by a
 
 | S.No. | Team Member Name | Role & Contributions |
 |:---:|---|---|
-| 1 | Member 1 | Team Leader – Project coordination, Flutter setup and Dashboard development |
+| 1 | vejandla sai kiran | Team Leader – Project coordination, Flutter setup and Dashboard development |
 | 2 | Member 2 | UI Developer – User interface design, expense entry form and validation |
 | 3 | Member 3 | Developer & Tester – Transaction management, local data storage, reports, testing and documentation |
 
